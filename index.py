@@ -12,4 +12,6 @@ print(a/2)
 
 a = 9
 b = 45
-s = ('toast')
+s = 4
+
+print(a+b+s)

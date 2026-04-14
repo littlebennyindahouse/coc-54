@@ -1,1 +1,2 @@
-print('HELLO WORD')
+print('Веніамін')
+print('Roma')

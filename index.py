@@ -1,4 +1,1 @@
-print('Веніамін')
-print('Roma')
-print('dima')
-print('benny')
+print(123456780)

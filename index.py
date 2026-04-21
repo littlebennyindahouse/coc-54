@@ -14,4 +14,4 @@ a = 9
 b = 45
 s = 4
 
-print(a*b*s)
+print(a*b*c)
